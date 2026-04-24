@@ -172,9 +172,11 @@ pytest tests/ -v
 
 ---
 
-## 🎥 Video Demo
-▶[(https://youtu.be/I2hHQgH165I)]
+## Video Demo
+▶https://youtu.be/I2hHQgH165I
 
+## Laporan
+▶https://drive.google.com/file/d/1fAoC2U4Nm_KyTf2qMsGfpbVbRydxFJbp/view
 ---
 
 *UTS Mata Kuliah Sistem Paralel dan Terdistribusi*
