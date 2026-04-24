@@ -173,7 +173,7 @@ pytest tests/ -v
 ---
 
 ## 🎥 Video Demo
-▶[link youtube sedang dibuat]
+▶[(https://youtu.be/I2hHQgH165I)]
 
 ---
 
